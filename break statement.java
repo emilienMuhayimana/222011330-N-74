@@ -1,4 +1,4 @@
-public class berak { //this is the class name of this program
+public class break statement { //this is the class name of this program
 
 public static void main(String[] args) {
 for(int w=2;w<=9;w++){ // this is the formura
