@@ -1,5 +1,5 @@
 //this program display the increament number by using do while condition
-public class key { // class name
+public class do while { // class name
 public static void main(String[] args) {
 int h=1; // variable
 do{
