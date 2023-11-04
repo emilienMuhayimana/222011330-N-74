@@ -1,8 +1,10 @@
-public class switchcase {
+//this is switch case program that display the grade 
+public class switchcase { // class name
  public static void main(String[]args){
-int marks=65;
+int marks=65; //initialisation of variable
 switch (marks) {
-    case 65: System.out.println("GET GRADE A");
+ // this is the output
+ case 65: System.out.println("GET GRADE A");
     break;
     case 60: System.out.println("GET GRADE B");
     break;
