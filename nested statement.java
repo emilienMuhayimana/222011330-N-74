@@ -1,5 +1,5 @@
 // this program display nested statement by the increament
-public class nested { //class name
+public class nested statement { //class name
 
 public static void main(String[] args) {
 for(int a=1;a<=4;a++){
