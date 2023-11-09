@@ -3,16 +3,16 @@ class A  {
 void get(){ //this the method
 System.out.println("hey");}
         }
-class B extends C{//class B extends class A
+class B extends C{//class B extends class C
 void show(){ //method
 
 System.out.println("go there");}// this is output
 }
-class C extends D{//class C extends B
+class C extends D{//class C extends D
 void display(){ //method
 System.out.println("welcome to mr muhorwa");} // this is the output
 }
-class D{//class D extends C
+class D{
 void like(){ //method
 System.out.println("its location");} //this is output
 }
